@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Mostrar mensaje
-        run: echo "Pipeline de prueba de JuanAlonsoContreras"
+        run: echo "Pipeline de prueba de Alba"
